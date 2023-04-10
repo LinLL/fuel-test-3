@@ -1,0 +1,8 @@
+.nvmrc
+temp/
+dist/
+design/
+data/
+.vscode/
+config.ts
+node_modules/
